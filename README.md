@@ -8,4 +8,4 @@
             
             All the User's data are stored on Cloud Firestore - Firebase  
 ![App](https://github.com/HuynhDuKienHung/Stroke-prediction-Android-App/assets/145436494/ce7b1736-c155-4a49-a40c-cfb939d45eb9)
-
+System Architecture
